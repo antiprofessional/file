@@ -1,0 +1,7 @@
+{
+    "name": "netflix",
+    "description": "Page",
+    "require": {
+      "php": ">=7.4"
+    }
+  }
